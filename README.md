@@ -7,7 +7,10 @@
 [![dependency status](https://deps.rs/repo/github/teovoinea/steganography/status.svg)](https://deps.rs/repo/github/teovoinea/steganography)
 
 # steganography
-A stable steganography library written in rust
+I got really annoyed with the dependabot alert-- last pull request of the project didn't get merged,
+so I just forked it myself.
+
+A stable steganography library written in rust from [@teovoinea](https://github.com/teovoinea), being maintained by [@westwardfishdme](https://github.com/westwardfishdme)
 
 [Crates.io](https://crates.io/crates/steganography)
 
